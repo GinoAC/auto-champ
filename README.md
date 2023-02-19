@@ -1,2 +1,1 @@
-# auto-champ
-# auto-champ
+AutoChamp is a framework for easier building, launching, and stat collecting using the ChampSim simulator. This infrastructure is currently under development...
